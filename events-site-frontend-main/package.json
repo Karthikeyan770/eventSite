@@ -1,0 +1,29 @@
+{
+  "name": "events-site-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "cookie": "^0.6.0",
+    "cookies-next": "^4.1.1",
+    "moment": "^2.30.1",
+    "next": "14.0.4",
+    "qs": "^6.11.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "react-toastify": "^10.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
